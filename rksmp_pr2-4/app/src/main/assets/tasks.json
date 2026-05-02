@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Купить продукты",
+    "description": "Молоко, хлеб, яйца",
+    "isCompleted": false
+  },
+  {
+    "title": "Позвонить маме",
+    "description": "",
+    "isCompleted": true
+  },
+  {
+    "title": "Доделать проект",
+    "description": "Дописать модуль Room",
+    "isCompleted": false
+  }
+]
